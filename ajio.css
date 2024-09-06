@@ -1,0 +1,54 @@
+#women{
+    background-image: url("https://get.wallhere.com/photo/women-model-glasses-red-photography-fashion-Vietnam-vietnamese-clothing-Huu-Trong-Nguyen-color-photo-shoot-abdomen-245392.jpg");
+    background-size: cover;
+    font-size: 70px;
+    color:rgb(255,255,255);
+    font-family:"Roboto";
+    font-weight: bold;
+    text-align: center;
+
+}
+#men{
+    background-image: url("http://clickworld.in/panel/media/apparels/stun-men-s-wear-madurai-m5f1bLxDAh-1543484872-a3127e8f65737a066d81976326956447.jpg");
+    background-size: cover;
+    font-size: 70px;
+    color:rgb(255,255,255);
+    font-family:"Roboto";
+    font-weight: bold;
+    text-align: center;
+   
+}
+#kid{
+    background-image:url(" https://www.shutterstock.com/shutterstock/photos/2444221973/display_1500/stock-photo-full-length-collage-made-of-different-children-boys-and-girls-in-motion-jumping-playing-against-2444221973.jpg");
+    background-size: cover;
+    font-size: 70px;
+    color:rgb(255,255,255);
+    font-family:"Roboto";
+    font-weight:bold;
+    text-align:center;
+}
+.style{
+    color:turquoise;
+    font-size: 30px;
+    font-family:"Roboto";
+    font-weight:bold;
+}
+h5{
+    font-size: 15px;
+    font-family:"Roboto";
+    font-weight:bold;
+    font-style: italic;
+    color:darkslategrey
+}
+button{
+    background-color:black;
+    color:beige;
+    font-style:"Roboto";
+    font-size:20px;
+}
+h4{
+    font-size:20px;
+}
+p{
+    color:greay;
+}
